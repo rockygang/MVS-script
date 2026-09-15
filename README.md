@@ -1,2 +1,0 @@
-# MVS-script
-MVS script
